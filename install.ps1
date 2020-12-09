@@ -1,0 +1,19 @@
+choco install `
+notepadplusplus `
+firefox `
+googlechrome `
+vscode `
+thunderbird `
+putty `
+adobereader `
+vlc `
+spotify `
+git `
+7zip `
+emacs `
+dropbox `
+bitwarden `
+docker-desktop `
+slack `
+virtualbox `
+drawio -y
